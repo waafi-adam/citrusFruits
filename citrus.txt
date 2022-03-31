@@ -5,5 +5,8 @@ i am sad
 I am happy
 I am girl
 i am boy
+<<<<<<< HEAD
 I am one
 I am two
+I am two
+I am three
